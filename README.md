@@ -1,5 +1,5 @@
 # ut4_skeet_garden
-Competition map for skeet shooting modification to ioq3.
+Competition map for skeet shooting modification to the engine in https://github.com/mickael9/ioq3.
 
 You can create a ready to play .pk3 from this repository, zip the following folders:
 
