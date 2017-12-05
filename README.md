@@ -1,2 +1,2 @@
-# ut42_skeet_garden
+# ut4_skeet_garden
 Competition map for skeet shooting modification
