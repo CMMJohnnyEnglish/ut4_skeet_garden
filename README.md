@@ -33,3 +33,7 @@ origin: (paste the value copied from the skeet model), 3 pairs of numbers eg. -3
 The model can be any model you want, you can create your own model and add it to your own map. The sound effect isn't currently used but included in case the mode is further developed.
 
 If you do add your own model, it will need to be a .md3 with a shader or simple texture. Other formats are not allowed.
+
+OPENGL2 RENDERER
+
+This map also includes a shader file that supports the sunlight features in the renderer.
