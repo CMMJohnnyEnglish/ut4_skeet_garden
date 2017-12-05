@@ -24,9 +24,9 @@ How to add a skeet to your own map using gtkRadiant (1.65):
 4) Right click the brush in the 2d view and select func_static from the entities options
 5) Press n key to bring up the entity properties box and add the following key pairs
 
-model2 : /models/mapobjects/skeetshoot/skeetmodel.md3
-noise: sound/skeet_garden/launcher.wav
-origin: (paste the value copied from the skeet model), 3 pairs of numbers eg. -32 736 -8
+* model2 : /models/mapobjects/skeetshoot/skeetmodel.md3
+* noise: sound/skeet_garden/launcher.wav
+* origin: (paste the value copied from the skeet model), 3 pairs of numbers eg. -32 736 -8
 
 6) Close the entity properties window. That's a single skeet placed. You will need to repeat this for each skeet you wish to add to the map.
 
@@ -36,4 +36,6 @@ If you do add your own model, it will need to be a .md3 with a shader or simple 
 
 OPENGL2 RENDERER
 
-This map also includes a shader file that supports the sunlight features in the renderer.
+This map also includes a shader file that supports the sunlight features in the opengl2 renderer. To see this at it's best, use /r_sunlightMode 1 in the console.
+
+
